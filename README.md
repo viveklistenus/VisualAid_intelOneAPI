@@ -32,15 +32,20 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 
 ![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/6881970e-4d74-49be-91c2-3a3f4a7705e4)
 
+### ✅Preparing Data
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/49136e65-368e-400f-aed2-b797baac6630)
+
 
 ### ✅Train the model using Intel oneNN to get better results and faster computation(Intel oneAPI Deep Neural Network Library (oneDNN))
-
 ![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/585fba35-e6a9-4ab2-b328-df1eb85734cb)
 
 
-
-
 ### ✅Save the model
+
+### ✅Generated a interface using Streamlit
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/0552176e-b945-4a91-8bce-454599c6db95)
+
+
 
 
 # What I learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
