@@ -39,7 +39,6 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 
 
 
-![image](https://user-images.githubusercontent.com/72274851/220109054-42f1cda1-3aa9-4c2c-92d7-0a957a9ad084.png)
 
 ### ✅Save the model
 
