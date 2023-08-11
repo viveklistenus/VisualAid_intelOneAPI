@@ -28,9 +28,10 @@ p {
   font-size: 22px;
 }
 """
+# Embed audio in HTML
 
 st.markdown(f'<style>{STYLE}</style>', unsafe_allow_html=True)
-st.markdown(html_audio, unsafe_allow_html=True)
+
 
 # Add project title and details  
 st.title("Visual AID for the Visually Impaired 👀")
@@ -75,10 +76,9 @@ for uploaded_file in uploaded_files:
   # Convert audio to base64
   audio_bytes = open(audio_file, "rb").read()
   audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
-  # Embed audio in HTML
-  html_audio = f"<audio controls><source src='data:audio/mp3;base64,{audio_b64}' type='audio/mp3'></audio>" 
-
-
+   
+  html_audio = f"<audio controls><source src='data:audio/mp3;base64,{audio_b64}' type='audio/mp3'></audio>"
+  st.markdown(html_audio, unsafe_allow_html=True)
   
   
   
