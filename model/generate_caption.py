@@ -36,7 +36,7 @@ sample_img_embed = caption_model.cnn_model(sample_x, training=False)
 sample_enc_out = caption_model.encoder(sample_img_embed, training=False)
 caption_model.decoder(sample_y, sample_enc_out, training=False)
 print(caption_model.layers)
-caption_model.load_weights("model/model_IC.h5")
+caption_model.load_weights("model_IC.h5")
 
 
 def generate_caption(file):
