@@ -82,6 +82,9 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a image captioning application is a challenging and rewarding experience that requires a combination of technical expertise and deep neural network knowledge.
 
+# Architecture ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
+![image-captioninig-architecture (3)](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/77423205-cd76-40e4-8394-a36fa6c44dc3)
+
 
 # Inspirations ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 ✅https://keras.io/examples/vision/image_captioning/
