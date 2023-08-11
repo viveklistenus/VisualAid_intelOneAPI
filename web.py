@@ -30,7 +30,7 @@ p {
 """
 
 st.markdown(f'<style>{STYLE}</style>', unsafe_allow_html=True)
-
+st.markdown(html_audio, unsafe_allow_html=True)
 
 # Add project title and details  
 st.title("Visual AID for the Visually Impaired 👀")
