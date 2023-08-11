@@ -8,7 +8,7 @@ import os
 import gtts
 from playsound import playsound
 import webbrowser
-from streamlit_player import st_player
+
 
 
 # Custom CSS
