@@ -92,7 +92,9 @@ Overall, building a image captioning application is a challenging and rewarding 
 
 # DEMO VIDEO ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 
-[![Image Captioning Demo](http://img.youtube.com/vi/FIk4R1kx1iA/0.jpg)](https://youtu.be/FIk4R1kx1iA "Image Captioning Demo")
+✅You can see a demo of the image captioning model in action in this video:
+
+[Image Captioning Demo](https://youtu.be/FIk4R1kx1iA "Image Captioning Demo")
 
 
 # Inspirations ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
