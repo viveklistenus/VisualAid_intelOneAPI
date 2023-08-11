@@ -76,7 +76,7 @@ for uploaded_file in uploaded_files:
   audio_bytes = open(audio_file, "rb").read()
   audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
   # Embed audio in HTML
-  html_audio = f"<audio controls><source src='data:audio/mpeg;base64,{audio_b64}' type='audio/mpeg'></audio>" 
+  html_audio = f"<audio controls><source src='data:audio/mp3;base64,{audio_b64}' type='audio/mp3'></audio>" 
 
 
   
