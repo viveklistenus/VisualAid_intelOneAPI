@@ -70,6 +70,8 @@ Overall, building a image captioning application is a challenging and rewarding 
 
 # Inspirations ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 ✅https://keras.io/examples/vision/image_captioning/
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/f3db81cf-4581-4ff4-b9d5-e44fb265e785)
+
 
 
 
