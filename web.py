@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import numpy as np
 from PIL import Image
-from model.generate_caption import *
+from generate_caption import *
 import os
 import gtts
 import pygame
