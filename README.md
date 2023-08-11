@@ -52,22 +52,25 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 
 ![pts_onednn](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/ce0ddc79-8047-4257-a48a-6dc213c03888)
 
-✅Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) contributes to the acceleration of big data analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
+✅Building application using intel oneDNN:While creating this image captioning model, I gained valuable experience in deep learning and computer vision concepts by using the Intel® oneAPI Deep Neural Network Library (oneDNN).
 
-✅Building a crop recommendation application involves a significant amount of research and development. During the process, I likely learned a number of things, including:
+✅Working with oneDNN allowed me to build and optimize a convolutional neural network for encoding image features. I learned how to structure CNN architectures to extract visual information from images effectively.
 
-✅Soil Science: I likely gained a deeper understanding of soil science and the various factors that affect crop growth, such as pH levels, nutrient content, and soil moisture levels.
+✅Through implementing the recurrent neural network component with oneDNN, I understood how RNNs can generate variable length text outputs conditioned on context vectors. I gained insights into achieving strong image-text alignments when training on paired datasets.
 
-✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict crop yields and make recommendations for farmers.
+✅Using oneDNN primitives, I was able to accelerate deep learning operations and optimize performance. I learned how to apply performance profiling to identify computational bottlenecks in my model. This allowed me to reduce training time while maintaining accuracy.
 
-✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data, including historical crop yield data and soil data, to train our machine learning models.
+✅Overall, this project gave me practical experience in combining CNN computer vision and RNN natural language processing models for an end-to-end deep learning pipeline. Working with oneDNN improved my ability to implement and accelerate advanced applications using deep neural networks.
 
-✅Agricultural Trends: I likely gained insight into current trends in agriculture and the challenges facing farmers, such as the need for sustainable and efficient crop production.
-
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as soil science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
+✅The skills I've gained in deep learning and optimizing model performance using oneDNN will be invaluable as I continue exploring real-world AI projects and research in the future. This experience has strengthened my expertise in deploying efficient deep learning solutions.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
-Overall, building a crop recommendation application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
+Overall, building a image captioning application is a challenging and rewarding experience that requires a combination of technical expertise and deep neural network knowledge.
+
+
+# Inspirations ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
+✅https://keras.io/examples/vision/image_captioning/
+
 
 
 
