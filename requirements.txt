@@ -6,4 +6,4 @@ numpy
 matplotlib
 gtts
 pygame
-playsound
+streamlit-player
