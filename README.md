@@ -30,24 +30,14 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 
 ### ✅ First I Import libraries
 
-### ✅Understand the data
-
-### ✅Create a Correlation and visualize it
-
-![1](https://user-images.githubusercontent.com/72274851/218495633-19d2cf0b-5b18-4774-8f3d-e18f6b77286b.jpg)
-
-### ✅Test Different Models and find the best model out of it
-
-### ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
-![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/6881970e-4d74-49be-91c2-3a3f4a7705e4)
 
 
+### ✅Train the model using Intel oneNN to get better results and faster computation(Intel oneAPI Deep Neural Network Library (oneDNN))
+
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/585fba35-e6a9-4ab2-b328-df1eb85734cb)
 
 
-- [x] SVM --> 0.10681818181818181
-- [x] Logistic Regression --> 0.9522727272727273
-- [x] RF --> 0.9840909090909091
-- [x] XGBoost --> 0.9931818181818182
 
 ![image](https://user-images.githubusercontent.com/72274851/220109054-42f1cda1-3aa9-4c2c-92d7-0a957a9ad084.png)
 
