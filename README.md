@@ -51,10 +51,6 @@ pip install -r requirements.txt
 streamlit run web.py
 ```
 
-### Demo
-
-https://user-images.githubusercontent.com/79329526/213480883-1d2a87f9-b72a-4475-a32a-1c4ca119afbb.mp4
-
 ### Exit Anaconda Environment
 
 ```
