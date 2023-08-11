@@ -43,7 +43,7 @@ This project demonstrates how CNN and RNN architectures can be combined to perfo
 
 # DATASET USED ![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
-<img width="1251" alt="coco-logo" src="https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/081e5bb3-0105-47fa-835e-7f18d7229c22">
+![ms-coco-dataset-for-computer-vision-deep-learning](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/9a130dd8-dc56-4f51-9ee4-2790578c2631)
 
 
 # How I built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
