@@ -1,3 +1,18 @@
+# Visual AID via Image Captioning
+Image captioning is the process of generating a natural language description of an
+image. It is a task in the field of computer vision and natural language processing. The
+goal of image captioning is to generate a coherent and fluent sentence that accurately
+describes the image content.
+
+![image](https://github.com/viveklistenus/VisualAid_intelOneAPI/assets/28853520/1d6a9cb0-5e26-4f8b-8653-ca0a536cf591)
+
+
+
+
+
+
+
+
 # INSPIRATION ![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
 This image captioning model was created as part of a hackathon project. The inspiration for creating it came from wanting to build an AI system that could automatically understand and describe the contents of images.
