@@ -1,3 +1,4 @@
+import base64
 import streamlit as st
 import requests
 import numpy as np
@@ -70,9 +71,13 @@ for uploaded_file in uploaded_files:
   tts = gtts.gTTS(pred_caption)
   audio_file = 'audio_'+uploaded_file.name+'.mp3'
   tts.save(audio_file)
-  
-  # Play audio
-  st_player(audio_file)
+
+  # Convert audio to base64
+  audio_bytes = open(audio_file, "rb").read()
+  audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
+  # Embed audio in HTML
+  html_audio = f"<audio controls><source src='data:audio/mpeg;base64,{audio_b64}' type='audio/mpeg'></audio>" 
+
 
   
   
