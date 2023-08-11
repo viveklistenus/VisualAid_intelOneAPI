@@ -14,7 +14,17 @@ The inspiration driving this project was gaining deeper insight into how complex
 
 # What It Does ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 
-The crop recommendation application is a cutting-edge tool that helps farmers make informed decisions about what crops to grow. The application leverages machine learning algorithms to provide customized crop recommendations based on the soil data provided by the user. By inputting soil data such as pH levels, nutrient content, and soil moisture levels, the application can predict which crops are best suited to the user's soil conditions. This information can help farmers avoid wasting resources and time on crops that are unlikely to thrive, and instead focus on those that are best suited to their land. The application takes into account various factors such as regional climate, weather patterns, and historical crop yields to make its predictions. This information, along with the soil data provided by the user, enables the application to provide accurate and tailored crop recommendations that can help farmers maximize their yields and increase their profits. The crop recommendation application is a valuable tool for farmers looking to optimize their crop production and make the most of their land.
+This image captioning model takes an image as input and generates a textual description of the contents of the image.
+
+The model uses a convolutional neural network (CNN) architecture to analyze the visual aspects of the input image. The CNN encodes the image into a dense feature vector capturing information about the objects, scenes, and relationships depicted.
+
+This image vector is passed to a recurrent neural network (RNN) which generates the text caption one word at a time. The RNN uses the context vector from the CNN as it decoders the image features into a natural language sentence describing the image content.
+
+The model is trained end-to-end on a dataset of images labeled with human-written captions. This allows the model to learn the correlations between image contents and textual descriptions.
+
+After training, the model can generate new captions for images it hasn't seen before. The quality of the generated captions depends on the size and diversity of the training dataset.
+
+This project demonstrates how CNN and RNN architectures can be combined to perform image to text translation. The model is able to generate basic descriptions of image contents, though there is still room for improvement in caption quality and diversity.
 
 # How I built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
 
