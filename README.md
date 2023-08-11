@@ -56,11 +56,9 @@ streamlit run web.py
 ```
 conda deactivate
 ```
-## Note
-Training model file is here: https://colab.research.google.com/drive/1K2ZFaAUNIYV0L92XEsV56HSYaXi4DMDh?usp=sharing. I use this file to train model and save its weights to local computer to deploy in Streamlit (You can find it at model/model_IC.h5).
 
 The model tutorial: https://keras.io/examples/vision/image_captioning/
 
-You can read the submitted report to understand the process I do this project.
 
-Feel free to clone my code to use.
+
+
