@@ -5,7 +5,7 @@ from PIL import Image
 from model.generate_caption import *
 import os
 import gtts
-import pygame
+from playsound import playsound
 import webbrowser
 
 
@@ -71,12 +71,7 @@ for uploaded_file in uploaded_files:
   tts.save(audio_file)
   
   # Play audio
-  pygame.mixer.init()
-  pygame.mixer.music.load(audio_file)
-  pygame.mixer.music.play()
-  while pygame.mixer.music.get_busy():
-    pygame.time.Clock().tick(10)
-  pygame.mixer.quit()
+  playsound(audio_file)
 
   # Display in Streamlit
   st.audio(audio_file)
