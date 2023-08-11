@@ -26,7 +26,9 @@ After training, the model can generate new captions for images it hasn't seen be
 
 This project demonstrates how CNN and RNN architectures can be combined to perform image to text translation. The model is able to generate basic descriptions of image contents, though there is still room for improvement in caption quality and diversity.
 
-# How I built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
+# How I built it ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
+
+![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
 
 ### ✅ First I Import libraries
 
