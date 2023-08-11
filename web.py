@@ -7,6 +7,7 @@ import os
 import gtts
 from playsound import playsound
 import webbrowser
+from streamlit_player import st_player
 
 
 # Custom CSS
@@ -71,10 +72,7 @@ for uploaded_file in uploaded_files:
   tts.save(audio_file)
   
   # Play audio
-  playsound(audio_file)
-
-  # Display in Streamlit
-  st.audio(audio_file)
+  st_player(audio_file)
 
   
   
