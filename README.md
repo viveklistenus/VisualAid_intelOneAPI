@@ -14,7 +14,7 @@
 
 An image captioning system typically consists of two main components:
 
-<li>An image feature extractor: This component is responsible for extracting features from the input image, such as object locations, sizes, and colors.
+<li>An image feature extractor: This component is responsible for extracting features from the input image, such as object locations, sizes, and colors.</li>
 
 <li>A natural language generator: This component takes the image features as input and generates a natural language description of the image.</li>
 
