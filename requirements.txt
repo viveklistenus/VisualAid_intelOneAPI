@@ -6,5 +6,5 @@ numpy
 matplotlib
 gtts
 pygame
-streamlit-player
 playsound
+streamlit-player==0.2.2
