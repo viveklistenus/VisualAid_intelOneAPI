@@ -7,4 +7,4 @@ matplotlib
 gtts
 pygame
 playsound
-streamlit-player==0.3.1
+
